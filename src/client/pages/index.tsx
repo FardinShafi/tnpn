@@ -13,3 +13,4 @@ export default function Home() {
     </div>
   );
 }
+//exploring a github glitch where its not showing commits in contributions
